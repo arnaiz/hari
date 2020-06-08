@@ -1,0 +1,15 @@
+!clear mod1
+!clear mod2
+!clear mod3
+!clear Control
+!add Control = Control_L
+!add mod2 = Control_R
+keycode 105 = Mode_switch
+keycode  57 = n N n N ntilde Ntilde
+keycode  38 = a A a A aacute Aacute
+keycode  26 = e E e E eacute Eacute
+keycode  31 = i I i I iacute Iacute
+keycode  32 = o O o O oacute Oacute 
+keycode  30 = u U udiaeresis Udiaeresis uacute Uacute 
+keycode  61 = slash question slash question questiondown dead_abovedot dead_belowdot
+keycode 10 = 1 exclam 1 exclam exclamdown onesuperior
